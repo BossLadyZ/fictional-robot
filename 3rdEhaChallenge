@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+
+    </head>
+    <h1>Gist from my days in Kano</h1>
+    <h2>List of Things you'll love in Kano</h2>
+    <ol>
+      <li>Kano is beautiful</li>
+      <li>Kano booms with business. There is always a profitable business for you</li>
+      <li>Nunu, Fura, Kunu Haya, Gurasa, Suya, Balango and everything in between</li>
+      <li>Kano has a Rich History</li>
+    </ol>
+<h2>List of Annoying things in Kano </h2>
+    <body>
+<ul>
+  <li>You can't thrive without Hausa Language</li>
+  <li>There are mosquitoes everywhere</li>
+  <li>They don't take schooling/education seriously</li>
+  <li>Most women sit in their homes idle when they should be empowered</li>
+  <li>Kano people are not blessed with culinary skills</li>
+</ul>
+
+
+    </body>
+
+</html>
