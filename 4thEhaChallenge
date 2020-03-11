@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+Should I ever get so rich to travel, I'll spend more time exploring Nigeria first. Ever heard of <strong>Yankari Games Reserve</strong> in Nigeria?<br>
+If you watched the <em>"Up North"</em> Movie, You'll understand what I am talking about. Frankly, the movie piqued my interest in visiting the place.
+
+        <p>I look forward to seeing scenes like <ul>
+          <li>The rocks and water: You know how much bliss that comes from such beautiful view? I'll let you know when I visit</li><br>
+          <img src="https://i0.wp.com/kaynuli.com/wp-content/uploads/2018/07/explore_bauchi_7.jpg?fit=1200%2C800&ssl=1" alt="Rocks and water view at Yankari Games Reserve" width="500">
+<br>
+<br>
+          <li>The animals: If you are a fan of movies like me, you'll probably marvel at the sight of animals you don't see frequently.</li>
+          <br>
+          <img src="https://pbs.twimg.com/media/DL19DUHX0AIxdwR.jpg" alt="Giraffe in Yankari Games Reserve" width="500">
+        </ul></p>
+
+        <p>And the food!</p>
+
+        <p>What's a perfect trip without <em>good</em> food? I am always open to trying out new foods wherever I go. <br>
+          However, Amala still tops my list. In cases where amala may not be available, I could settle and eat food like suya, gurasa, rice or masa </p>
+          <img src="https://www.primepost.ng/wp-content/uploads/2019/09/Gaining-recognition-beyond-borders-as-nourishing-diet.jpeg" alt="Amala and Ewedu" width="500">
+
+    </body>
+</html>
