@@ -4,6 +4,10 @@
         <meta charset="utf-8">
         <title>Challenge: Seasonal ids</title>
         <style>
+  h1 {
+    background-color:purple;
+    color: white;
+  }
 #summer {
   color: purple;
   background-color: yellow;
