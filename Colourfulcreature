@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+
+<style media="screen">
+  h1 {
+    color: rgb(255, 255, 255);
+
+  }
+  p {
+    color: white;
+  }
+  body {
+    background-color: rgb(255, 102, 0);
+  }
+</style>
+
+    </head>
+    <body>
+
+        <h1>The coolest creature</h1>
+    <img src="https://assets.rebelcircus.com/blog/wp-content/uploads/2017/11/horse3.jpg" alt="An awesome creature">
+
+        <p>The <em>horse</em> is awesome because of its <strong>strenth</strong>.The horse (Equus ferus caballus) is one of two extant subspecies of Equus ferus. <br>
+          It is an odd-toed ungulate mammal belonging to the taxonomic family Equidae. <br>
+          The horse has evolved over the past 45 to 55 million years from a small multi-toed creature, Eohippus, into the large, <br>
+          single-toed animal of today. <br>
+          Humans began domesticating horses around 4000 BC, and their domestication is believed to have been widespread by 3000 BC.</p>
+
+    </body>
+</html>
