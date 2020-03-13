@@ -1,0 +1,91 @@
+<!<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <style media="screen">
+
+    .Heading{
+        font-family: "Helvetica", "sans serif";
+        font-size: 50px;
+        text-align: center;
+        #background-color: blue;
+        #color: white;
+      }
+      h3{
+
+        text-align: center;
+        line-height: 0.0001px;
+      }
+      .top-box {
+        background-color:rgb(4, 151, 209);
+        height: 10px;
+        width: 2000px;
+      }
+      body {
+        background-color: rgb(245, 232, 196);
+        font-family: "Helvetica", "sans serif";
+        padding: 0;
+        margin: 0;
+      }
+      .down-box {
+        background-color:rgb(4, 151, 209);
+        height: 10px;
+        width: 2000px;
+
+    </style>
+    <meta charset="utf-8">
+    <title>Experience Bauchi</title>
+  </head>
+
+  <body>
+    <div class="top-box">
+
+    </div>
+<h1 class="Heading">Experience Bauchi at its best</h1>
+<h3><em>Showing you the Nigeria you didn't think exists</em></h3>
+
+<div class="down-box">
+
+</div>
+
+
+<h2>Why should you explore Bauchi?</h2>
+
+<p>Bauchi is loacted in the Northern Region of Nigeria. With an average temperature of and rainfall of,<br>
+   Bauchi seems to be the perfect place for your Nothern Nigeria Vacation.</p>
+   <br>
+   <h2>Sights to look forward to In Bauchi</h2>
+   <ul>
+     <li><strong>Yankari Games Reserve</strong></li>
+    <p>Yankari Games Reserve is the major tourist attraction in Bauchi. Like other Games Reserve all over the world, <br>The games Reserve gives you access to animals and other beautiful sights. <br>Giving you a whole new Northern experience.</p>
+
+     <img src="https://hometown.ng/wp-content/uploads/2016/11/dsc_0218e-580x387.jpg" alt="Yankari Games Reserve">
+     <img src="https://sunnewsonline.com/wp-content/uploads/2017/05/IMG_9522-580x387.jpghttps://sunnewsonline.com/wp-content/uploads/2017/05/IMG_9522-580x387.jpghttps://sunnewsonline.com/wp-content/uploads/2017/05/IMG_9522-580x387.jpg" alt="">
+<p></p>
+
+     <li><strong>The Emir's Palace</strong></li>
+     <p>If you love history like me, you'll understand how important it is to visit the Emir of Bauchi's palace.
+       <br>From the gates of the palace, you get an insight of what the empire used to be before amalgamation.</p>
+       <br>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Bauchi_Emirates_Palace.jpg" alt="Emir's Palace Bauchi">
+<p></p>
+     <li><strong>Rocky views and Water bodies</strong></li>
+     <p>One of the beautiful things about Bauchi is the sight of rocks and water. It helps you relax.</p>
+     <img src="https://i0.wp.com/kaynuli.com/wp-content/uploads/2018/07/explore_bauchi_7.jpg?fit=1200%2C800&ssl=1" alt="Rocks and water view at Yankari Games Reserve" width="500">
+<br>
+<p></p>
+     <li><strong>The Historical City Gates</strong></li>
+     <p>The City Gates are nine in number and they tell us  the tales of how people protected themselves aginst predators in the 19th century.</p>
+     <img src="https://sunnewsonline.com/wp-content/uploads/2018/08/HISTORIC-BAUCHI-GATE.jpg" alt="City Gates, Bauchi" width="500px">
+<br>
+<p></p>
+    <li><strong>Food</strong></li>
+  <p>  What's a new experience without food? Experience Bauchi offers you the opportunity to eat <br>different nutritious foods from the Northern Origin.<br>
+    Masa,Suya, Gurasa are awesome foods you should prepare your taste buds for, and more.</p>
+    <br>
+    <img src="https://9jafoods.com/wp-content/uploads/2020/01/Deliciuos-Masa-Recipe.jpg" alt="Masa Bauchi">
+
+<img src="https://food.jumia.com.ng/blog/wp-content/uploads/2015/10/img_20140216_125432-660x400.jpg" alt="" width ="400px">   </ul>
+   <p></p>
+  </body>
+</html>
