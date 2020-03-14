@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<style media="screen">
+
+h1 {
+  color: rgb(120, 173, 118);
+  text-align: center;
+  font-size: 60px;
+  background-color: rgb(230, 245, 196);
+}
+p{
+  color: rgb(19, 94, 4);
+}
+  th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+th {
+  background-color: rgb(230, 245, 196);
+  color: rgb(120, 173, 118);
+}
+td {
+  background-color: rgb(227, 245, 218);
+  color: rgb(120, 173, 118);
+}
+body {
+  #background-color: rgb(210, 242, 203);
+}
+#Amala {
+  color: rgb(120, 173, 118);
+}
+#Ewa{
+  color: rgb(120, 173, 118);
+}
+#Moi{
+  color: rgb(120, 173, 118);
+}
+a{
+  color: rgb(120, 173, 118);
+}
+
+</style>
+  <head>
+    <meta charset="utf-8">
+    <title>Favorite Recipes</title>
+  </head>
+  <body>
+    <h1>BossLady's Recipes</h1>
+    <p> Welcome to my page. Here I show you my favorite recipes.</p>
+
+    <ul>
+      <a href="#Amala"><li>Amala and Ewedu</li></a>
+    <a href="#Ewa"><li>Ewa Agoyin and Dodo</li></a>
+      <a href="#Moi"><li>Moin-Moin</li></a>
+    </ul>
+    <br>
+
+    <p>Now let's get started.</p>
+    <h2 id= "Amala">Amala and Ewedu</h2>
+
+    <img src="https://i.pinimg.com/originals/a0/13/23/a0132382c1bcd9ee0225ce95e2834a3e.jpg" alt="Amala and Ewedu" width="600px">
+<p>Recipe for Amala</p>
+<p>Amala is the dark colored <em>swallow</em> that you eat with Ewedu and stew. When <em>coupled</em> with the right soup assitants, Amala is a great game changer.<br>
+You turn the flour in hot water and mix until it's smooth enough.</p>
+<table>
+    <thead>
+        <tr>
+            <th>Ingredients</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Yam Flour</td>
+        <td>Two cups</td>
+      </tr>
+      <tr>
+        <td>Water</td>
+        <td>One and a half cups</td>
+      </tr>
+    </tbody>
+</table>
+    <p>Ewedu</p>
+    <p>Ewedu is green and slimy. it <em>"draws"</em> when cooked properly, aids the unobstructed movement of the Amala.</p>
+<br>
+<table>
+    <thead>
+        <tr>
+            <th>Ingredients</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Ewedu Leaves</td>
+        <td>One handful</td>
+      </tr>
+      <tr>
+        <td>Water</td>
+        <td>One and a half cups</td>
+      </tr>
+    </tbody>
+</table>
+  <h3 id ="Ewa">Ewa Agoyin and Dodo</h3>
+  <p>Ewa Agoyin is a delicacy made from beans. The secret to the delicacy is the stew and fried plantain that it's served with.</p>
+  <img src="https://i.pinimg.com/originals/b4/26/df/b426df08ef8d8bc48bb35a173620ef34.jpg" alt="Mashed beans and stew"width="600px">
+  <table>
+      <thead>
+          <tr>
+              <th>Ingredients</th>
+              <th>Quantity</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Beans</td>
+          <td>Two cups</td>
+        </tr>
+        <tr>
+          <td>Water</td>
+          <td>One and a half cups</td>
+        </tr>
+        <tr>
+          <td>Dried Pepper</td>
+          <td>One and a half cups</td>
+          <tr>
+            <td>Ginger</td>
+            <td>One and a half cups</td>
+          </tr>
+          <tr>
+            <td>Garlic</td>
+            <td>One and a half cups</td>
+          </tr>
+          <tr>
+            <td>Plantain</td>
+            <td>One Bunch</td>
+          </tr>
+          <tr>
+            <td>Oil</td>
+            <td>One and a half cups</td>
+          </tr>
+          <tr>
+            <td>Seasoning and Salt</td>
+            <td>To Taste</td>
+          </tr>
+      </tbody>
+  </table>
+  <h3 id="Moi"> Moi-moi</h3>
+  <p>Sometimes called bean cake, moi-moi is best eaten with pap or bread.</p>
+  <img src="https://guardian.ng/wp-content/uploads/2017/07/moimoi-3-939x598.jpg" alt="Moimoi" width="500px">
+  <table>
+      <thead>
+          <tr>
+              <th>Ingredients</th>
+              <th>Quantity</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Beans</td>
+          <td>Two cups</td>
+        </tr>
+        <tr>
+          <td>Water</td>
+          <td>One and a half cups</td>
+        </tr>
+        <tr>
+          <td>Pepper</td>
+          <td>One and a half cups</td>
+          <tr>
+            <td>Ginger</td>
+            <td>One and a half cups</td>
+          </tr>
+          <tr>
+            <td>Egg</td>
+            <td>One and a half cups</td>
+          </tr>
+          <tr>
+            <td>CrayFish</td>
+            <td>One and a half cups</td>
+          </tr>
+          <tr>
+            <td>Fish</td>
+            <td>One</td>
+          </tr>
+          <tr>
+            <td>Oil</td>
+            <td>One and a half cups</td>
+          </tr>
+          <tr>
+            <td>Seasoning and Salt</td>
+            <td>To Taste</td>
+          </tr>
+      </tbody>
+  </table>
+  </body>
+</html>
